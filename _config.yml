@@ -1,0 +1,7 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "main"
+title: awesome github pages
